@@ -8,6 +8,7 @@
     "start": "electron main.js"
   },
   "repository": "https://github.com/electron/electron-quick-start",
+  
   "keywords": [
     "Electron",
     "quick",
