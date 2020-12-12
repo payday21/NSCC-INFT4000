@@ -31,6 +31,6 @@
     "react": "^0.14.8",
     "react-dom": "^0.14.8",
     "react-loading": "0.0.9",
-    "react-soundplayer": "^0.3.6"
+    "react-soundplayer": "^1.0.5"
   }
 }
